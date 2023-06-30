@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AltaShop_v-btn v-btn--icon v-btn--ro_febe25</name>
+   <tag></tag>
+   <elementGuidId>cc49f518-80b0-4276-a9de-5d5ff404f459</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ad56a29c-a940-4a81-8af6-1578eb733257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>50824251-2917-4c07-b8a0-f8f31cf84467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn v-btn--icon v-btn--round theme--dark v-size--default</value>
+      <webElementGuid>0209520d-571e-4ad4-b51f-a6567a6c8c50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/header[@class=&quot;v-sheet theme--dark v-toolbar v-app-bar v-app-bar--fixed deep-purple accent-4&quot;]/div[@class=&quot;v-toolbar__content&quot;]/button[@class=&quot;v-btn v-btn--icon v-btn--round theme--dark v-size--default&quot;]</value>
+      <webElementGuid>40f11d8c-8361-46fb-bf81-1b9d9f90dda3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>8930eaf8-d7c4-4b65-af60-f9cbf5ceeb4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div/button[2]</value>
+      <webElementGuid>4869e2cc-4c7a-455d-a7c1-2385079c8074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AltaShop'])[1]/following::button[2]</value>
+      <webElementGuid>34cf87db-b2ae-4d42-b4a9-3188a072224c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select category ...'])[1]/preceding::button[1]</value>
+      <webElementGuid>831a2cc4-9650-438d-882a-bf1a6b0affdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XBOX1'])[1]/preceding::button[1]</value>
+      <webElementGuid>d6d749cd-f99c-4e2a-b309-1d44f4cd7fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>960380ee-e684-455b-9425-2e4376b1f21c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>08ab96bf-6f98-4f92-9da3-ca905ea3afc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

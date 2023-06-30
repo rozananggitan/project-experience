@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Beli</name>
+   <tag></tag>
+   <elementGuidId>7f67de93-7345-430e-8378-0e9c7eb395b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[18]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#85134 > div.v-card.v-sheet.theme--light > div.v-card__actions.d-block > div.mt-3 > button.button-beli.ml-3.v-btn.v-btn--outlined.theme--light.v-size--small.primary--text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aeddd1fb-a5c2-44b9-b209-0520c1758ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f109842-20b5-4743-8537-a569ff67818c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-beli ml-3 v-btn v-btn--outlined theme--light v-size--small primary--text</value>
+      <webElementGuid>ee3ba6c4-a36b-45dc-a208-0f597ad3043e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beli</value>
+      <webElementGuid>08aacd9c-1b32-4940-b7d6-ff14513e331a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;85134&quot;)/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__actions d-block&quot;]/div[@class=&quot;mt-3&quot;]/button[@class=&quot;button-beli ml-3 v-btn v-btn--outlined theme--light v-size--small primary--text&quot;]</value>
+      <webElementGuid>ba02b2ff-c65e-4602-8b60-cad18471ea87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>86eecf47-64ec-4ada-8999-fc879255929d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='85134']/div/div[3]/div[2]/button[2]</value>
+      <webElementGuid>5e636b6f-efdd-43be-96b5-fd8676041cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[8]/following::button[1]</value>
+      <webElementGuid>d680b80d-39fb-47c8-b2f7-195c73005c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XBOX1'])[8]/preceding::button[1]</value>
+      <webElementGuid>cf7fd575-e6fd-405b-a0cc-d9733b4db0b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[3]/div[2]/button[2]</value>
+      <webElementGuid>c7168176-005d-4921-b16b-96d7be3077a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Beli' or . = 'Beli')]</value>
+      <webElementGuid>3ee708ec-b913-4f64-b7cb-570e48ce8c08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

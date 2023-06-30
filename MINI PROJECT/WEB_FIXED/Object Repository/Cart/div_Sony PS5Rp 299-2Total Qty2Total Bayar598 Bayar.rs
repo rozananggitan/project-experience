@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sony PS5Rp 299-2Total Qty2Total Bayar598 Bayar</name>
+   <tag></tag>
+   <elementGuidId>067c33f6-c9ee-4fd9-9e12-34a42008767d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dbb898be-78bf-40e7-8adc-c68a991cbee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>56c6d1cd-48a5-4818-9a27-fc6513cdf161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sony PS5Rp 299-2+Total Qty2Total Bayar598 Bayar </value>
+      <webElementGuid>1ca2367d-34fa-4f0d-a036-ffb7a519e5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]</value>
+      <webElementGuid>2add6d09-eb68-44d5-8fa2-eda07d19778a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div</value>
+      <webElementGuid>97898848-dfa2-4a68-a10f-433b671b4871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AltaShop'])[1]/following::div[4]</value>
+      <webElementGuid>ca613c8a-e87a-455c-bd4b-9db0503b5839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div</value>
+      <webElementGuid>f68c0876-2486-4748-bfb4-299f7ed22290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sony PS5Rp 299-2+Total Qty2Total Bayar598 Bayar ' or . = 'Sony PS5Rp 299-2+Total Qty2Total Bayar598 Bayar ')]</value>
+      <webElementGuid>90809353-076b-49e9-9369-e9e639493437</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
